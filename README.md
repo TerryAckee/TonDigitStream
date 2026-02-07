@@ -18,3 +18,25 @@ gcc src/Tstoc.c -o Tstoc -lncurses -lm
 
 # Run
 ./Tstoc
+
+🧠 The Logic
+The animation uses sine and cosine to calculate a circular path, combined with a horizontal drift. To maintain a "clean" visual field without ghosting, the program utilizes a hard-clear refresh cycle and tethered mathematical offsets for the trailing "whisp" digits.
+
+
+---
+
+### 4. The GitHub Commands
+Once your files are ready in your local folder, run these in your terminal:
+
+1.  **Initialize:** `git init`
+2.  **Add Files:** `git add .`
+3.  **Commit:** `git commit -m "Initial commit: Zen Digit Stream with tethered whisp effect"`
+4.  **Connect:** `git remote add origin https://github.com/YOUR_USERNAME/Zen-Digit-Stream.git`
+5.  **Push:** `git push -u origin main`
+
+
+
+### Why this works for a portfolio:
+It shows you aren't just writing "Hello World"—it proves you can handle **memory-safe UI updates**, **external library linking**, and **real-time loops**.
+
+**Would you like me to help you write a more detailed "Technical Challenges" section for t
