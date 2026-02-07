@@ -1,4 +1,4 @@
-[![asciicast](https://asciinema.org/a/Fn21V8LeG5NMAruH.svg)](https://asciinema.org/a/Fn21V8LeG5NMAruH)
+![Ton Digit Stream Animation](democast.gif)
 # Ton-Digit-Stream
 
 A minimalist C animation using `ncurses` and trigonometric functions to create a "floating whisp" effect in the terminal.
