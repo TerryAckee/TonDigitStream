@@ -8,8 +8,10 @@
 https://github.com/user-attachments/assets/bce1d395-a914-4807-bf3a-3106f991bdbe
 
 
-In this segment I properly identified adjusted the AI generated program script's properites
-to take the curve out the coordinate path's program set motion by editing those functions in the script but
+In this segment I -       [properly identified adjusted the AI generated program script's properites
+to take the curve out the coordinate path's program set motion by editing those functions in the script]
+but
+
 because I am totally new to .c and it's command langauge purpose and functions - [I didn't manage to
 set the movement of the coordinates back to the right on the first try [+ coordinates].
 
