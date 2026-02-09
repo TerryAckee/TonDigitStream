@@ -8,6 +8,13 @@
 https://github.com/user-attachments/assets/bce1d395-a914-4807-bf3a-3106f991bdbe
 
 
+In this segment I properly identified adjusted the AI generated program script's properites
+to take the curve out the coordinate path's program set motion by editing those functions in the script but
+because I am totally new to .c and it's command langauge purpose and functions - [I didn't manage to
+set the movement of the coordinates back to the right on the first try [+ coordinates].
+
+
+
 The issue I ran into was a first time encounter dealing with new concept of a script using my own experience and understanding of code logic attempting 
 to get this particular outcome with my program abillity for the first time!
 13 minutes to repair any errors with a firsts time exposure to the problem is a short time frame in comparison to someone who can encounter a critical problem and not solve it for months!
