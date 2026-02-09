@@ -35,17 +35,9 @@ https://github.com/user-attachments/assets/53b36be3-021c-4c5d-a151-c8ab4e24a489
 
 
 Minutes 3-8 
-While attempting to get the result I displayed I could produce through my understanding of language logic 
-and experience on the first try,   - I made [adjustments] to the code. [Programming in values attempting
-to produce the final result I got at 8m59s or 9m to be short!]
-
-
-8m59s
 [ Here I am showing orginization and the holding the value of tracibility of actions and adjustments to the code.
 noting each of the adjustments I made, then changing them all back to what they were before. Removing room for any unnaccounted mistakes! 
-[Tracability]
----[Concepet of not changing anyhing other than what needs to be changed and making note of every single adjustment that I make so that they can all be traced back 
-in the case of using them to track a mistake in the process.]
+
 
 
 
