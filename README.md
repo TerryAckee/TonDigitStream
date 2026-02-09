@@ -1,6 +1,10 @@
 ![Ton Digit Stream Animation](democast.gif)
 # Ton-Digit-Stream
 
+
+https://github.com/user-attachments/assets/6240a8cf-d4e0-4f1a-b8ee-31998a9497fc
+
+
 A minimalist C animation using `ncurses` and trigonometric functions to create a "floating whisp" effect in the terminal.
 
 ![Project Demo](path/to/your/demo.gif)
