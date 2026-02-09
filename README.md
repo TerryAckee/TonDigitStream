@@ -17,18 +17,17 @@ set the movement of the coordinates back to the right on the first try [+ coordi
 
 
 
-The issue I ran into was a first time encounter dealing with new concept of a script using my own experience and understanding of code logic attempting 
-to get this particular outcome with my program abillity for the first time!
-13 minutes to repair any errors with a firsts time exposure to the problem is a short time frame in comparison to someone who can encounter a critical problem and not solve it for months!
-[TimeStamps! Start - 2m19s]
-I showcase my procedural understanding and efficiency
-carrying out necessary operations through accessing code already written
-and adjusting it to the --[ required or requested need]-- in the secure steps without any stops in the running system!
-Here I am showing my understanding does not limit the outcomes and results I can produce and create using code that is already 
-built by showing my high logical understanding and practical experience in practical example
-by explaining an AI assitant's code structure, the orgnization of it what line deals produces 
-each particular result, the variables and the direct components they each access or adjust [increase, decrease, multiply, raise, store a value, organize an array]
 
+[TimeStamps! Start - 2m19s]
+ Displaying my ability deal with a entirely new concept in minutes with such practically secure, safe and sucessful measures using- 
+ 
+ "The Challenge: First-time exposure to a native AI assistant script. Objective: Identify and repair logic errors in a live running system without downtime."
+
+[02:19] - Zero-Day Analysis: Initial exposure to the logic structure. Demonstrating the ability to read and interpret "foreign" code variables and array organizations on the fly.
+
+[05:40] - Logic Adjustment: Real-time modification of variables (increase, multiply, store) to align the script with requested needs.
+
+[10:15] - System Verification: Proving that the "Practical Experience" translates to a stable, running result with no system stops.
 https://github.com/user-attachments/assets/53b36be3-021c-4c5d-a151-c8ab4e24a489
 
 
