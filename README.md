@@ -49,7 +49,6 @@ https://github.com/user-attachments/assets/53b36be3-021c-4c5d-a151-c8ab4e24a489
 
 
 
-Minutes 3-8 
 [ Here I am showing orginization and the holding the value of tracibility of actions and adjustments to the code.
 noting each of the adjustments I made, then changing them all back to what they were before. Removing room for any unnaccounted mistakes! 
 Key Takeaway: While others may struggle for months with critical logic failures, this recording proves my ability to analyze, adapt, and deploy solutions in a high-pressure, first-exposure environment.
@@ -63,6 +62,8 @@ Key Takeaway: While others may struggle for months with critical logic failures,
 
 
 https://github.com/user-attachments/assets/6240a8cf-d4e0-4f1a-b8ee-31998a9497fc
+
+[4m]VIDEO End. you can see the transition from standard 2D processing to a more complex, multi-axis logic flow.
 
 
 A minimalist C animation using `ncurses` and trigonometric functions to create a "floating whisp" effect in the terminal.
