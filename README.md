@@ -34,7 +34,9 @@ set the movement of the coordinates back to the right on the first try [+ coordi
 
 
 
+
 [10:15] - System Verification: Proving that the "Practical Experience" translates to a stable, running result with no system stops.
+
 https://github.com/user-attachments/assets/53b36be3-021c-4c5d-a151-c8ab4e24a489
 
 
