@@ -42,9 +42,6 @@ to produce the final result I got at 8m59s or 9m to be short!]
 
 
 8m59s
-I acted on the decision to re-adjust a series of many small changes I had made
-before demonstrating my understanding of a native code and script's logic and ability to adjust it
-to produce results that I want because of my understanding of logic and practical experience!
 [ Here I am showing orginization and the holding the value of tracibility of actions and adjustments to the code.
 noting each of the adjustments I made, then changing them all back to what they were before. Removing room for any unnaccounted mistakes! 
 [Tracability]
