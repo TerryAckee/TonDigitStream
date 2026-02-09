@@ -1,7 +1,7 @@
 ![Ton Digit Stream Animation](democast.gif)
 # Ton-Digit-Stream
-
-
+## 🎙️ Logic Walkthrough
+> This video provides a narrated breakdown of the active logic changes to demonstrate the engineering intent behind the implementation.
 https://github.com/user-attachments/assets/6240a8cf-d4e0-4f1a-b8ee-31998a9497fc
 
 
