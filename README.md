@@ -9,7 +9,7 @@ https://github.com/user-attachments/assets/bce1d395-a914-4807-bf3a-3106f991bdbe
 
 
 In this segment I -       [properly identified and adjusted the AI generated program script's properties
-to take the curve out the coordinates program path of my variable by editing those functions in the script]
+to take the curve out of the coordinates programmed to set the path of my variable by editing those functions in the script]
 but
 
 because I am totally new to .c and it's command langauge purpose and functions - [I didn't manage to
