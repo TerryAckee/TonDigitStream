@@ -4,10 +4,14 @@
 > This video provides a narrated breakdown of the active logic changes to demonstrate the engineering intent behind the implementation.
 
 
+
+https://github.com/user-attachments/assets/bce1d395-a914-4807-bf3a-3106f991bdbe
+
+
 The issue I ran into was a first time encounter dealing with new concept of a script using my own experience and understanding of code logic attempting 
 to get this particular outcome with my program abillity for the first time!
 13 minutes to repair any errors with a firsts time exposure to the problem is a short time frame in comparison to someone who can encounter a critical problem and not solve it for months!
-TimeStamps! 2m19s
+[TimeStamps! Start - 2m19s]
 I showcase my procedural understanding and efficiency
 carrying out necessary operations through accessing code already written
 and adjusting it to the --[ required or requested need]-- in the secure steps without any stops in the running system!
