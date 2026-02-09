@@ -7,13 +7,8 @@
 
 https://github.com/user-attachments/assets/bce1d395-a914-4807-bf3a-3106f991bdbe
 
-https://github.com/user-attachments/assets/53b36be3-021c-4c5d-a151-c8ab4e24a489
 
-
-
-
-T27
-he issue I ran into was a first time encounter dealing with new concept of a script using my own experience and understanding of code logic attempting 
+The issue I ran into was a first time encounter dealing with new concept of a script using my own experience and understanding of code logic attempting 
 to get this particular outcome with my program abillity for the first time!
 13 minutes to repair any errors with a firsts time exposure to the problem is a short time frame in comparison to someone who can encounter a critical problem and not solve it for months!
 [TimeStamps! Start - 2m19s]
@@ -24,6 +19,8 @@ Here I am showing my understanding does not limit the outcomes and results I can
 built by showing my high logical understanding and practical experience in practical example
 by explaining an AI assitant's code structure, the orgnization of it what line deals produces 
 each particular result, the variables and the direct components they each access or adjust [increase, decrease, multiply, raise, store a value, organize an array]
+
+https://github.com/user-attachments/assets/53b36be3-021c-4c5d-a151-c8ab4e24a489
 
 
 
