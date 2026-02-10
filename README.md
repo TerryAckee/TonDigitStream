@@ -17,13 +17,15 @@ else and inject a procedure of my own + properly identify & adjust existing peer
  
 resolving them safely and successfuly performing and my operation and achieving the necessary result I missed on the first attempt to inject my code and access other peer stored variables at the same time 
 
-[I stated in the beginning @ I should see the coordinates lose the curve in them from the original peer code in the gif -which they did- and switch directions to start moving from left to right again <-- this part 
+[I stated in the beginning @ I should see the coordinates lose the curve in them from the original peer code in the gif -which they did- and switch directions to start moving from left to right again <-
 
-was the real time failed attempt to produce the second factor of the result I stated I would be able to perform through the Peer code I am accessing in this video display!
+## this part was the real time failed attempt to produce the second factor of the result I stated I would be able to perform through the Peer code I am accessing in this video display!
+
+## Correcting the [noncritical code adjustment. 1 of 2 new deployment results successfuly were prooduced issue in my first operation during the initial deployment] shows that I didn't cheat and already know the answer! Authentic resiliency and real time display of correcting and adjusting variables while deploying operations on Peer code in real time on recording!
 
 Performing a live "hot-fix" on Peer to Peer script logic errors in Real time and variable organization without interrupting the running system.
 
- ## Running succeessful Peer to Peer operations in realt time deploying logic into Peer code successfuly in under 13 minutes.
+ ## Running succeessful Peer to Peer operations in real time 1st attempt deploying logic into Peer code successfuly in under 13 minutes.
 
 
 
