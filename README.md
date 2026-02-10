@@ -14,7 +14,7 @@ else and inject a procedure of my own + properly identify & adjust existing peer
 
 ## Displaying [CONTINUAL DEPLOYMENT]
 
- successfuly and safely achieving what ever outcome, change, effect, advancement is required and or requested in a real time, securely deploying my own code into peer code for first time while in real time recording 
+ ## successfuly and safely achieving what ever outcome, change, effect, advancement is required and or requested in a real time, securely deploying my own code into peer code for first time while in real time recording 
  
  encountering these mistakes for the first time 
  
