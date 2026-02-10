@@ -77,7 +77,7 @@ set the movement of the coordinates back to the right on the first try [+ coordi
 
 
 ## Here I display Peer to Peer success competency and secure operations 
-not breaking code keeping it functional while continually intergrating a series of adjustment deployments to  [-my peer's-] code
+not breaking code keeping it functional while continually intergrating a series of adjustment deployments to  [-my peer's-] code in real time mp4 video recording with voice recording and Audio included!
 
 https://github.com/user-attachments/assets/53b36be3-021c-4c5d-a151-c8ab4e24a489
 
