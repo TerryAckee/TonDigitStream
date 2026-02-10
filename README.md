@@ -6,9 +6,9 @@
 securely accessing and and safely deploying minimal adjustments to previously stored varialbles 
 "How I solve the unknown in real-time."
 
-## [Native AI Peer script editing - the assistants generated script is what I am Peer to Peer editing in real time on recording or the first time : Dispalying my ability 
+## [Native AI Peer script editing - the assistants generated script is what I am Peer to Peer editing in real time on recording or the first time  
 
-to successfully access fully written script from a peer or someone 
+: Dispalying my ability to successfully access fully written script from a peer or someone 
 
 else and inject a procedure of my own + properly identify & adjust existing peer code only where necessary 
 
