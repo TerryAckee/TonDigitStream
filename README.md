@@ -67,7 +67,7 @@ set the movement of the coordinates back to the right on the first try [+ coordi
 
 
 
- ## - Logical Adjustment: Using the vaule of minimal adjustment to deploy Real-time modification of variables and values (sin, cos, increase, multiply, store) to align the script with requested needs.
+ ## - Logical Adjustment: Using the vaule of minimal adjustment to securely deploy Real-time modification of variables and values (sin, cos, increase, multiply, store) to align the script with requested needs with no run time erros!
 
 
 
