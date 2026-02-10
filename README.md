@@ -61,18 +61,18 @@ set the movement of the coordinates back to the right on the first try [+ coordi
 
 
 
-[02:19] - Zero-Day Analysis: Initial exposure to the peer logic structure. Recording my ability to [identify and understand and the PEER "foreign" code variables and array organizations in real time to make immediate deployment intergrations.] 
+ - Zero-Day Analysis: Initial exposure to the peer logic structure. Recording my ability to [identify and understand and the PEER "foreign" code variables and array organizations in real time to make immediate deployment intergrations.] 
 
 
 
 
 
- ## [05:40] - Logical Adjustment: Using the vaule of minimal adjustment to deploy Real-time modification of variables and values (sin, cos, increase, multiply, store) to align the script with requested needs.
+ ## - Logical Adjustment: Using the vaule of minimal adjustment to deploy Real-time modification of variables and values (sin, cos, increase, multiply, store) to align the script with requested needs.
 
 
 
 
-[10:15] - System Verification: Proving that the "Practical Experience" translates to a stable, running result with no breaks in the code during my peer code operation deployments
+ - System Verification: Proving that the "Practical Experience" translates to a stable, running result with no breaks in the code during my peer code operation deployments
 
 
 
@@ -111,7 +111,7 @@ the way I stated I would a few minutes before when I attempted to in the beginni
 
 https://github.com/user-attachments/assets/6240a8cf-d4e0-4f1a-b8ee-31998a9497fc
 
-[4m]VIDEO End. you can see the transition from standard 2D processing to a more complex, multi-axis logic flow.
+VIDEO End. you can see the transition from standard 2D processing to a more complex, multi-axis logic flow.
 
 
 A minimalist C animation using `ncurses` and trigonometric functions to create a "floating whisp" effect in the terminal.
