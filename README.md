@@ -1,3 +1,5 @@
+
+## 4-10s GIF active playing! v
 ![Ton Digit Stream Animation](democast.gif)
 # Ton-Digit-Stream
 ##  REAL TIME REC. [successful Peer to Peer script deployment]! and accessing minimal adjustments to previously stored varialbles producing the outcome requested
