@@ -24,7 +24,7 @@ Authentic resiliency and real time display of correcting and adjusting variables
 
 Performing a live "hot-fix" on Peer to Peer script logic errors in Real time and variable organization without interrupting the running system.
 
-## Successfuly Correcting the [noncritical code adjustment issue in my first operation during the initial deployment] shows that I didn't cheat and already know the answer! 
+## Successfuly Correcting the [noncritical code adjustment in my first operation during the initial deployment] shows that I didn't cheat and already know the answer! 
 
 
 
