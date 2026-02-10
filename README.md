@@ -11,9 +11,14 @@ else and inject a procedure of my own + properly identify & adjust existing peer
 
 ## Displaying [CONTINUAL DEPLOYMENT]
 
- successfuly and safely achieving what ever outcome, change, effect, advancement is required and or requested in a real time, securely deploying my own code into peer code for first time while in real time recording encountering these mistakes for the first time 
+ successfuly and safely achieving what ever outcome, change, effect, advancement is required and or requested in a real time, securely deploying my own code into peer code for first time while in real time recording 
+ 
+ encountering these mistakes for the first time 
+ 
 resolving them safely and successfuly performing and my operation and achieving the necessary result I missed on the first attempt to inject my code and access other peer stored variables at the same time 
+
 [I stated in the beginning @ I should see the coordinates lose the curve in them from the original peer code in the gif -which they did- and switch directions to start moving from left to right again <-- this part 
+
 was the real time failed attempt to produce the second factor of the result I stated I would be able to perform through the Peer code I am accessing in this video display!
 
 Performing a live "hot-fix" on Peer to Peer script logic errors in Real time and variable organization without interrupting the running system.
