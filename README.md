@@ -10,7 +10,7 @@ securely accessing and and safely deploying minimal adjustments to previously st
 
 : Dispalying my ability to successfully access fully written script from a peer or someone 
 
-else and inject a procedure of my own + properly identify & adjust existing peer code only where necessary 
+else and inject a procedure of my own + properly identify & adjust existing peer code only where necessary in real time on mp4 video recording with audio attached! Here below on this repository v scroll down to see v !
 
 ## Displaying [CONTINUAL DEPLOYMENT]
 
