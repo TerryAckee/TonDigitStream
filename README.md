@@ -3,7 +3,7 @@
 🛠 Practical Resiliency Showcase: Live Logic Repair
 "How I solve the unknown in real-time."
 
-## [The Native AI Peer the script the assistant generated is what I am Peer to Peer editing in real time on recording or the first time : Dispalying my ability 
+## [Native AI Peer script editing - the assistants generated script is what I am Peer to Peer editing in real time on recording or the first time : Dispalying my ability 
 
 to successfully access fully written script from a peer or someone 
 
