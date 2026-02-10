@@ -2,7 +2,7 @@
 ## 4-10s GIF active playing! v
 ![Ton Digit Stream Animation](democast.gif)
 # Ton-Digit-Stream
-##  REAL TIME REC. [successful Peer to Peer script deployment]!  
+##  REAL TIME mp4 Video REC. w/ VOICE AUDIO of me displaying [successful Peer to Peer script deployment]!  
 securely accessing and and safely deploying minimal adjustments to previously stored varialbles 
 "How I solve the unknown in real-time."
 
