@@ -21,7 +21,9 @@ resolving them safely and successfuly performing and my operation and achieving 
 
 ## this part was the real time failed attempt to produce the second factor of the result I stated I would be able to perform through the Peer code I am accessing in this video display!
 
-## Correcting the [noncritical code adjustment. 1 of 2 new deployment results successfuly were prooduced issue in my first operation during the initial deployment] shows that I didn't cheat and already know the answer! Authentic resiliency and real time display of correcting and adjusting variables while deploying operations on Peer code in real time on recording!
+## Correcting the [noncritical code adjustment. 1 of 2 new deployment results successfuly were prooduced issue in my first operation during the initial deployment] shows that I didn't cheat and already know the answer! 
+
+Authentic resiliency and real time display of correcting and adjusting variables while deploying operations on Peer code in real time on recording!
 
 Performing a live "hot-fix" on Peer to Peer script logic errors in Real time and variable organization without interrupting the running system.
 
