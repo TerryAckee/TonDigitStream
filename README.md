@@ -21,7 +21,10 @@ resolving them safely and successfuly performing and my operation and achieving 
 
 ## this part was the real time failed attempt to produce the second factor of the result I stated I would be able to perform through the Peer code I am accessing in this video display!
 
-## Correcting the [noncritical code adjustment. 1 of 2 new deployment results successfuly were prooduced issue in my first operation during the initial deployment] shows that I didn't cheat and already know the answer! 
+## Successfuly Correcting the [noncritical code adjustment issue in my first operation during the initial deployment] shows that I didn't cheat and already know the answer! 
+The code ran successfuly with no breaks upon deployment the error was that only 1 of the 2 new deployment results I stated would be deployed was successfully prooduced when the code ran!
+
+detail: The coordinates stopped curving there path as they moved but didn't switch directions again from right to left.
 
 Authentic resiliency and real time display of correcting and adjusting variables while deploying operations on Peer code in real time on recording!
 
