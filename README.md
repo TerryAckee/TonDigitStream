@@ -61,7 +61,7 @@ set the movement of the coordinates back to the right on the first try [+ coordi
 
 
 
-[02:19] - Zero-Day Analysis: Initial exposure to the peer logic structure. Demonstrating the ability to [identify and understand and the PEER "foreign" code variables and array organizations on the fly to make immediate deployment intergrations.]
+[02:19] - Zero-Day Analysis: Initial exposure to the peer logic structure. Recording my ability to [identify and understand and the PEER "foreign" code variables and array organizations on the fly to make immediate deployment intergrations.] in real time
 
 
 
