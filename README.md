@@ -23,7 +23,7 @@ was the real time failed attempt to produce the second factor of the result I st
 
 Performing a live "hot-fix" on Peer to Peer script logic errors in Real time and variable organization without interrupting the running system.
 
- ## Running succeessful Peer to Peer operations in realt time inserting my native logic into Peer code and langauge show casing my successful collaberative peer script optimization in under 13 minutes.
+ ## Running succeessful Peer to Peer operations in realt time deploying logic into Peer code successfuly in under 13 minutes.
 
 
 
