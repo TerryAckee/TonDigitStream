@@ -16,15 +16,6 @@ else and inject a procedure of my own + properly identify & adjust existing peer
 
  ## successfuly and safely achieving what ever outcome, change, effect, advancement is required and or requested in a real time, securely deploying my own code into peer code for first time while in real time recording 
 
- maintaining fully operational and functional peer code without breaks during
- 
- encountering these mistakes for the first time 
- 
-resolving them safely and successfuly performing and my operation and achieving the necessary result I missed on the first attempt to inject my code and access other peer stored variables at the same time 
-
-[I stated in the beginning @ I should see the coordinates lose the curve in them from the original peer code in the gif -which they did- and switch directions to start moving from left to right again <-
-
-## Successfuly Correcting the [noncritical code adjustment issue in my first operation during the initial deployment] shows that I didn't cheat and already know the answer! 
 The code ran successfuly with no breaks upon deployment the error was that only 1 of the 2 new deployment results I stated would be deployed was successfully prooduced when the code ran!
 
 detail: The coordinates stopped curving there path as they moved but didn't switch directions again from right to left.
@@ -32,6 +23,12 @@ detail: The coordinates stopped curving there path as they moved but didn't swit
 Authentic resiliency and real time display of correcting and adjusting variables while deploying operations on Peer code in real time on recording!
 
 Performing a live "hot-fix" on Peer to Peer script logic errors in Real time and variable organization without interrupting the running system.
+
+## Successfuly Correcting the [noncritical code adjustment issue in my first operation during the initial deployment] shows that I didn't cheat and already know the answer! 
+
+
+
+
 
  ## Running succeessful Peer to Peer operations in real time 1st attempt deploying logic into Peer code successfuly in under 13 minutes.
 
