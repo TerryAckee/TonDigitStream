@@ -76,7 +76,8 @@ set the movement of the coordinates back to the right on the first try [+ coordi
 
 
 
-## Here I display Peer to Peer success competency and secure operation when first time 
+## Here I display Peer to Peer success competency and secure operations 
+not breaking code keeping it functional while continually intergrating a series of adjustment deployments to  [-my peer's-] code
 
 https://github.com/user-attachments/assets/53b36be3-021c-4c5d-a151-c8ab4e24a489
 
@@ -85,7 +86,7 @@ https://github.com/user-attachments/assets/53b36be3-021c-4c5d-a151-c8ab4e24a489
 
 
 
-First time exposure to this native [-my peer's-] original code is a factor by [--achieving the second part of the first goal i stated
+ producing a final successfuly result and [--achieving the second part of the first goal i stated
 
 I which is making the coordinates change their movement direction from right to left back to left to right
 
