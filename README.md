@@ -24,8 +24,6 @@ resolving them safely and successfuly performing and my operation and achieving 
 
 [I stated in the beginning @ I should see the coordinates lose the curve in them from the original peer code in the gif -which they did- and switch directions to start moving from left to right again <-
 
-## this part was the real time failed attempt to produce the second factor of the result I stated I would be able to perform through the Peer code I am accessing in this video display!
-
 ## Successfuly Correcting the [noncritical code adjustment issue in my first operation during the initial deployment] shows that I didn't cheat and already know the answer! 
 The code ran successfuly with no breaks upon deployment the error was that only 1 of the 2 new deployment results I stated would be deployed was successfully prooduced when the code ran!
 
