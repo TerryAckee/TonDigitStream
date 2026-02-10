@@ -60,9 +60,20 @@ https://github.com/user-attachments/assets/53b36be3-021c-4c5d-a151-c8ab4e24a489
 
 
 
-[ Here I am showing orginization and the holding the value of tracibility of actions and adjustments to the code.
-noting each of the adjustments I made, then changing them all back to what they were before. Removing room for any unnaccounted mistakes! 
-Key Takeaway: While others may struggle for months with critical logic failures, this recording proves my ability to analyze, adapt, and deploy solutions in a high-pressure, first-exposure environment.
+## Here I display Peer to Peer success competency and secure operation when first time 
+exposure to the native code is a factor by [--achieving the second part of the first goal i stated
+
+I which is making the coordinates change their movement direction from right to left back to left to right
+
+procedurally this time not using file history or crtl z, to back track with full proof of my secure ability to inject 
+code
+noting each of the adjustments I made, then changing them all back to what they were before to preserve
+
+the native code's not accessed variables and use the concept of tracibility of actions to track and identify which 
+
+action the mistake happened at and fix it entirely producing a result of the right moving characters on their coordinates 
+
+the way I stated I would a few minutes before when I attempted to in the beginning!
 
 
 
