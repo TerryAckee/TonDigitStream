@@ -56,7 +56,7 @@ set the movement of the coordinates back to the right on the first try [+ coordi
  
 
  
- ## The Challenge:First-time exposure to Peer script and language successfuly deploying new operations and adjustments to peer code while the code is running and operation functionally with no breaks during the procudure!
+ ## The Challenge:First-time exposure to Peer script and language successfuly deploying new operations and adjustments to peer code while the code is running with no breaks during the procudure!
 
 
 
